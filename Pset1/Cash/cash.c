@@ -3,7 +3,7 @@
 
 int main(void)
 {
-    // Ask for change from user;
+    // Ask for change from user input;
     float change;
     do
     {
