@@ -7,7 +7,7 @@
 
 int main(int argc, string argv[])
 {
-    // Check for number of command line inputs
+    // Check for number of command line inputs from user
     if (argc == 2)
     {
         int digit_test = 0;
