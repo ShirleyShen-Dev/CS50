@@ -3,7 +3,7 @@
 int main(void)
 {
     int h;
-    // Ensure input is acceptable integer
+    // Ensure input is acceptable integer value
     do
     {
         printf("How tall is mario's obstacle:");
